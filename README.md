@@ -2,8 +2,6 @@
     <img src="./img/phoenix.svg" style="width: 100%;">
 </figure>
 
-<center>
-
 <div align="center">
 
 [![Languages](https://skillicons.dev/icons?i=js,html,css,cpp,c,ts)](https://skillicons.dev)
@@ -13,8 +11,6 @@
 [![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 [![Embeded](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
-
-</div>
 
 <h2>All collaborations are available</h2>
 <h3>Contact me on:</h3>
@@ -29,4 +25,4 @@
     </li>
 </ul>
 
-</center>
+</div>
