@@ -12,14 +12,14 @@
 
 [![Embeded](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
 
-<h2>All collaborations are available</h2>
-<h3>Contact me on:</h3>
+<p>All collaborations are available</p>
+<p>Contact me on:</p>
 <ul style="list-style: none; width: 70%;">
     <li>
-        <a style="color: #6272a4; text-decoration: underline; font-size: 1.05em;" href="https://www.facebook.com/bila.fararano">Facebook</a>
+        <a href="https://www.facebook.com/bila.fararano">Facebook</a>
     </li>
     <li>
-        <a style="color: #6272a4; text-decoration: underline; font-size: 1.05em;" href="mailto:fararano.kevin@gmail.com">Gmail</a>
+        <a href="mailto:fararano.kevin@gmail.com">Gmail</a>
     </li>
 </ul>
 
