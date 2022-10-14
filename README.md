@@ -1,6 +1,10 @@
+
+
+<div align="center">
 <figure>
     <img src="./img/phoenix.svg" style="width: 100%;">
 </figure>
+</div>
 
 <div align="center">
 
