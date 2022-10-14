@@ -5,6 +5,7 @@
     <img src="./img/phoenix.svg" style="width: 100%;">
 </figure>
 </div>
+<br /><br />
 
 <div align="center">
 
