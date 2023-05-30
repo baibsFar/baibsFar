@@ -9,8 +9,6 @@
 
 <div align="center">
 
-![Languages](https://github.com/username/github-stats/blob/master/generated/languages.svg)
-
 [![Languages](https://skillicons.dev/icons?i=js,html,css,cpp,c,ts)](https://skillicons.dev)
 
 [![Frontend & Design](https://skillicons.dev/icons?i=vue,react,angular,figma)](https://skillicons.dev)
