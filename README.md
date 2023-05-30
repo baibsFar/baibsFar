@@ -9,6 +9,8 @@
 
 <div align="center">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baibsFar&theme=dracula&hide=css,scss,less,html,objective-c,ejs,ruby&layout=compact&hide_progress=true)
+
 [![Languages](https://skillicons.dev/icons?i=js,html,css,cpp,c,ts)](https://skillicons.dev)
 
 [![Frontend & Design](https://skillicons.dev/icons?i=vue,react,angular,figma)](https://skillicons.dev)
