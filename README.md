@@ -7,6 +7,13 @@
 </div>
 <br /><br />
 
+<a href="https://github.com/baibsFar/github-stats">
+  <p align='center'>
+    <img src="https://github.com/baibsFar/github-stats/blob/master/generated/overview.svg"/>
+    <img src="https://github.com/baibsFar/github-stats/blob/master/generated/languages.svg"/>
+  </p>
+</a>
+
 <div align="center">
     
 ![Used Languages](https://github.com/baibsFar/github-stats/blob/master/generated/languages.svg)
