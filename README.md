@@ -9,7 +9,7 @@
 
 <div align="center">
 
-![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
+![Languages](https://github.com/username/github-stats/blob/master/generated/languages.svg)
 
 [![Languages](https://skillicons.dev/icons?i=js,html,css,cpp,c,ts)](https://skillicons.dev)
 
