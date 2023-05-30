@@ -8,6 +8,8 @@
 <br /><br />
 
 <div align="center">
+    
+![Used Languages](https://github.com/baibsFar/github-stats/blob/master/generated/languages.svg)
 
 [![Languages](https://skillicons.dev/icons?i=js,html,css,cpp,c,ts)](https://skillicons.dev)
 
